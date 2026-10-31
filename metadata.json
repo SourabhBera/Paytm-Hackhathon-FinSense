@@ -1,0 +1,8 @@
+{
+  "name": "FinSense",
+  "description": "Smart financial intelligence, merchant collections, insurance discovery, and AI Copilot for Paytm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
